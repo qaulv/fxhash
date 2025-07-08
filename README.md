@@ -5,7 +5,7 @@ A Python-based tool for analyzing token holders and transfers on the Base networ
 ## Project Structure
 
 ```
-fxhash-workings/
+fxhash/
 ├── README.md                 # This file
 ├── .gitignore               # Git ignore rules
 ├── scripts/                 # Python analysis scripts
@@ -46,8 +46,8 @@ fxhash-workings/
 
 1. Clone this repository:
 ```bash
-git clone <repository-url>
-cd fxhash-workings
+git clone https://github.com/qaulv/fxhash.git
+cd fxhash
 ```
 
 2. The scripts will automatically install required dependencies:
