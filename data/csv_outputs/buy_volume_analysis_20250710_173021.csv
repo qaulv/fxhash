@@ -1,0 +1,2 @@
+Contract_Address,Token_Symbol,Token_Name,Current_Price_USD,Total_Buy_Volume_USD,Total_Buy_Volume_Native,Total_Buy_Transfers,Unique_Buyers,H24_Buy_Volume_USD,DexScreener_24h_Volume,Validation_Accuracy_Pct,Total_Sell_Volume_USD,Other_Transfers,Token_Age_Hours,Analysis_Timestamp
+0xEA3B0233d176D03d1484d75f46fE0fA611F4B07c,GALO,GALO,0.02964000,13846.17,467144.673206,1305,107,1927.95,4283.26,45.0,20819.34,1166,26.8,2025-07-10 17:30:21
